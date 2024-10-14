@@ -1,1 +1,1 @@
-# Stores-Sales-Forecasting
+# Store-sales-forecasting

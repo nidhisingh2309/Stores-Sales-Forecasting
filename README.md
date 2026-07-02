@@ -49,18 +49,6 @@ Store-Sales-Forecasting/
 
 ---
 
-## 📸 Visualizations
-
-| Sales Trend                | Holiday Analysis             |
-| -------------------------- | ---------------------------- |
-| ![](plots/sales_trend.png) | ![](plots/holiday_sales.png) |
-
-| Feature Importance                | Actual vs Predicted                |
-| --------------------------------- | ---------------------------------- |
-| ![](plots/feature_importance.png) | ![](plots/actual_vs_predicted.png) |
-
----
-
 ## 💡 Key Insights
 
 * Sales exhibit strong seasonal and weekly trends.
